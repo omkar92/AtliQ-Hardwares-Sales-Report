@@ -72,9 +72,8 @@ product strategy, and market performance.
 Omkar Warade RPA Developer \| Automation Anywhere \| Learning Data
 Analytics
 
-LinkedIn: (Add your LinkedIn profile link here) GitHub: (Add your GitHub
-profile link here)
-
+LinkedIn: www.linkedin.com/in/omkar-warade-a721b7163 
+GitHub: 
 ------------------------------------------------------------------------
 
 ## Support
