@@ -13,18 +13,21 @@ optimizing regional strategy.
 ## Business Problems Addressed & Solutions Provided
 
 1.  **Problem**: Difficulty in identifying products driving growth
+
     **Solution**:
     The report highlights the Top 10 products with the highest sales
     growth from 2020 to 2021, helping management focus on high-demand
     products for future investment and marketing.
 
 2.  **Problem**: Uneven revenue contribution across divisions
-    **Solution**:
+
+     **Solution**:
     Division-wise Net Sales comparison allows stakeholders to understand
     which divisions are underperforming and where resource allocation
     should be improved.
 
 3.  **Problem**: Lack of clarity on best and worst selling products
+
     **Solution**: The quantity sold ranking helps the business:
 
     -   Promote top-selling products
@@ -32,13 +35,15 @@ optimizing regional strategy.
     -   Improve product portfolio decisions
 
 4.  **Problem**: Measuring the impact of newly launched products
-    **Solution**:
+
+     **Solution**:
     The New Products section tracks sales generated from new launches,
     helping evaluate whether product introductions are successful or
     need repositioning.
 
 5.  **Problem**: Uncertainty about strongest regional markets
-   **Solution**:
+
+    **Solution**:
     Country-wise sales analysis identifies top-performing regions
     (India, NA, ROA, etc.), enabling better market expansion and
     targeted sales strategies.
